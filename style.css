@@ -1,0 +1,10 @@
+.carousel-inner {
+  padding-bottom: 50px;
+}
+
+.carousel-caption h5 {
+  color: rgb(0, 255, 38);
+}
+.carousel-caption p {
+  color: red;
+}
